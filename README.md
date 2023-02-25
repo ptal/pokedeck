@@ -7,3 +7,9 @@ mvn compile
 mvn exec:java -Dexec.mainClass="pcg.Pokedeck"
 mvn test
 ```
+
+## Open-closed and single responsibility principles
+
+## Composite design pattern
+
+## Iterator design pattern
